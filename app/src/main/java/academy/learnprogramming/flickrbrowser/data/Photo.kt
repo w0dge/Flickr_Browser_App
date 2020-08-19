@@ -1,4 +1,4 @@
-package academy.learnprogramming.flickrbrowser
+package academy.learnprogramming.flickrbrowser.data
 
 import android.os.Parcel
 import android.os.Parcelable

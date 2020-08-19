@@ -1,4 +1,4 @@
-package academy.learnprogramming.flickrbrowser
+package academy.learnprogramming.flickrbrowser.utils
 
 import android.content.Context
 import android.util.Log

@@ -1,5 +1,9 @@
-package academy.learnprogramming.flickrbrowser
+package academy.learnprogramming.flickrbrowser.activities
 
+import academy.learnprogramming.flickrbrowser.utils.BaseActivity
+import academy.learnprogramming.flickrbrowser.utils.PHOTO_TRANSFER
+import academy.learnprogramming.flickrbrowser.data.Photo
+import academy.learnprogramming.flickrbrowser.R
 import android.os.Bundle
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.content_photo_details.*

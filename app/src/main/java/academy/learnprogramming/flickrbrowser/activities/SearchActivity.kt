@@ -1,5 +1,8 @@
-package academy.learnprogramming.flickrbrowser
+package academy.learnprogramming.flickrbrowser.activities
 
+import academy.learnprogramming.flickrbrowser.utils.BaseActivity
+import academy.learnprogramming.flickrbrowser.utils.FLICKR_QUERY
+import academy.learnprogramming.flickrbrowser.R
 import android.app.SearchManager
 import android.content.Context
 import android.os.Bundle

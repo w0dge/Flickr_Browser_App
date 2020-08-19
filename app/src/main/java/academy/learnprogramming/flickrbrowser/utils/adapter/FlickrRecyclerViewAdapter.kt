@@ -1,5 +1,7 @@
-package academy.learnprogramming.flickrbrowser
+package academy.learnprogramming.flickrbrowser.utils.adapter
 
+import academy.learnprogramming.flickrbrowser.data.Photo
+import academy.learnprogramming.flickrbrowser.R
 import android.util.Log
 import android.view.LayoutInflater
 import android.view.View

@@ -1,5 +1,15 @@
-package academy.learnprogramming.flickrbrowser
+package academy.learnprogramming.flickrbrowser.activities
 
+import academy.learnprogramming.flickrbrowser.R
+import academy.learnprogramming.flickrbrowser.data.DownloadStatus
+import academy.learnprogramming.flickrbrowser.data.GetFlickrJsonData
+import academy.learnprogramming.flickrbrowser.data.GetRawData
+import academy.learnprogramming.flickrbrowser.data.Photo
+import academy.learnprogramming.flickrbrowser.utils.BaseActivity
+import academy.learnprogramming.flickrbrowser.utils.FLICKR_QUERY
+import academy.learnprogramming.flickrbrowser.utils.PHOTO_TRANSFER
+import academy.learnprogramming.flickrbrowser.utils.RecyclerItemClickListener
+import academy.learnprogramming.flickrbrowser.utils.adapter.FlickrRecyclerViewAdapter
 import android.content.Intent
 import android.net.Uri
 import android.os.Bundle

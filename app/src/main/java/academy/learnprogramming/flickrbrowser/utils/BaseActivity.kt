@@ -1,5 +1,6 @@
-package academy.learnprogramming.flickrbrowser
+package academy.learnprogramming.flickrbrowser.utils
 
+import academy.learnprogramming.flickrbrowser.R
 import android.util.Log
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
