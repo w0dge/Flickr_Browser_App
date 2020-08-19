@@ -6,6 +6,13 @@
         <item name="colorPrimary">@color/primary</item>
         <item name="colorPrimaryDark">@color/primary_dark</item>
         <item name="colorAccent">@color/accent</item>
+        <item name="titleTextColor">#FFFFFF</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textColorSecondary">#FFFFFF</item>
+        <item name="android:icon">@color/icons</item>
+        <item name="android:windowBackground">#1F1B24</item>
+        <item name="cardBackgroundColor">@color/primary</item>
+        <item name="divider">@color/divider</item>
     </style>
 
     <style name="AppTheme.NoActionBar">
